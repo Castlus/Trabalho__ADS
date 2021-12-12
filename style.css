@@ -26,7 +26,7 @@ width:90%;
 }
 
 Body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Segoe UI', Roboto, Bebas-Neue, Comic-Sans, sans-serif;
 }
 
 
@@ -104,9 +104,9 @@ table{
     
 }
 
-#butaozinhodopapai:hover{
+#pogbutton:hover{
 
-    transform: scale(110%);
+    transform: scale(120%);
     opacity: 0.6;
     background-color: #c3ebd4;
 
